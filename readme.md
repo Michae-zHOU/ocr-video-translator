@@ -19,4 +19,16 @@ python youtube_downloader.py <YouTube URL>
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
+
+### Note
+
+This project is for educational purposes only. The project is built using the following libraries:
+
+- OpenCV
+- Tesseract
+- MyMemory
+- TensorFlow
+- NumPy
+
+Please do not use this project for commercial purposes.
+
