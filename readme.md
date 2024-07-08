@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python youtube_downloader.py <YouTube URL>
+python youtube_translator.py <YouTube URL>
 ```
 
 ## License
